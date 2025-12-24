@@ -1,0 +1,5 @@
+{
+  "name": "Copy of WP-Insights AI Chatbot",
+  "description": "An intelligent chatbot that analyzes WordPress website content via REST API and provides context-aware answers with direct links to relevant pages and posts.",
+  "requestFramePermissions": []
+}
